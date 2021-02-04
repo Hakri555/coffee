@@ -1,0 +1,3 @@
+sys, sqlite3
+uic
+PyQt5.QtWidgets, QApplication, QMainWindow
